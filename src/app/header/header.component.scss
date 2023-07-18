@@ -1,0 +1,25 @@
+
+header{
+    padding: 12px 0;
+    background-color: black;
+    margin-top: 10px;
+}
+.menu ul{
+    padding: 0;
+    margin: 0;
+}
+.menu ul li{
+    list-style-type: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 20px;
+    color: white;
+    margin-top: 10px;
+}
+.menu ul li a{
+  color:white;
+}
+  .menu ul li a:hover{
+    color:#99CCFF;
+  }
+  
